@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQVzhs8794TYzIAQ1Ri7J6X1/1aY1x8+8l5vpdKb4uv/B2M49/PAZomsq45y+O3EKFKygm8EBqNjai8W5zZrjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PGudlanur\\source\\repos\\CoreReact\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PGudlanur\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PGudlanur\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\PGudlanur\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

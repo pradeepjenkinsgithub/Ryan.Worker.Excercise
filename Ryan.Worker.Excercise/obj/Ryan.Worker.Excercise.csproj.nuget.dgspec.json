@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PGudlanur\\source\\repos\\CoreReact\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PGudlanur\\source\\repos\\CoreReact\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PGudlanur\\source\\repos\\CoreReact\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise.csproj",
+        "projectName": "Ryan.Worker.Excercise",
+        "projectPath": "C:\\Users\\PGudlanur\\source\\repos\\CoreReact\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise.csproj",
+        "packagesPath": "C:\\Users\\PGudlanur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PGudlanur\\source\\repos\\CoreReact\\Ryan.Worker.Excercise\\Ryan.Worker.Excercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PGudlanur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

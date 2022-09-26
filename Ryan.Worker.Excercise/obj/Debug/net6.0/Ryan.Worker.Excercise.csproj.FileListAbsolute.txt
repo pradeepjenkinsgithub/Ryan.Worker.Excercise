@@ -1,0 +1,17 @@
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.csproj.AssemblyReference.cache
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.AssemblyInfoInputs.cache
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.AssemblyInfo.cs
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.csproj.CoreCompileInputs.cache
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\bin\Debug\net6.0\Ryan.Worker.Excercise.exe
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\bin\Debug\net6.0\Ryan.Worker.Excercise.deps.json
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\bin\Debug\net6.0\Ryan.Worker.Excercise.runtimeconfig.json
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\bin\Debug\net6.0\Ryan.Worker.Excercise.dll
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\bin\Debug\net6.0\Ryan.Worker.Excercise.pdb
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.csproj.CopyComplete
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.dll
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\refint\Ryan.Worker.Excercise.dll
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.pdb
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\Ryan.Worker.Excercise.genruntimeconfig.cache
+C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.Excercise\obj\Debug\net6.0\ref\Ryan.Worker.Excercise.dll
