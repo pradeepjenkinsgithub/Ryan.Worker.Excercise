@@ -12,7 +12,7 @@ namespace Ryan.Worker.Excercise.Schedular.Build
         public WorkerName worker { get; set; }
         public DateTime _startTime { get; set; }
         public DateTime _endTime { get; set; }
-        public DateTime _Total_Work_Hours { get; set; }
+        //      public DateTime _Total_Work_Hours { get; set; }
 
         public BuildComponentActivity(DateTime startDate, DateTime endDate)
         {
@@ -30,7 +30,7 @@ namespace Ryan.Worker.Excercise.Schedular.Build
         private void NotifyWorker()
         {
             worker.setChargingStartTime(_endTime);
-            worker.setChargingEndTime(_startTime.AddHours(2));
+            worker.setChargingEndTime(_endTime.AddHours(2));
         }
 
         public void start(DateTime startDateTimeActivity)

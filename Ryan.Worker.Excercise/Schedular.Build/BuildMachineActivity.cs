@@ -9,16 +9,12 @@ namespace Ryan.Worker.Excercise.Schedular.Build
 {
     public class BuildMachineActivity : IActivity
     {
-        public List<WorkerName> workers
-        {
-            get { return workers; }
-            set
-            {
-                workers = value; ;
-            }
-        }
+        public WorkerName WorkerName { get; set; }
+        public List<WorkerName> workers;
+        
         public DateTime _startTime { get; set; }
         public DateTime _endTime { get; set; }
+
         //  public DateTime _Total_Work_Hours { get; set; }
 
         public BuildMachineActivity(List<WorkerName> workers, DateTime startDate, DateTime endDate)
@@ -31,6 +27,7 @@ namespace Ryan.Worker.Excercise.Schedular.Build
         {
             if (workers == null)
                 workers = _Workers;
+               //WorkerName = workerMans;
             notifyWorkers();
         }
 

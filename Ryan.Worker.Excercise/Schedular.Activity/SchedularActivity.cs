@@ -4,17 +4,17 @@ using Ryan.Worker.Excercise.Schedular.Build;
 
 namespace Ryan.Worker.Excercise.Schedular.Activity
 {
-    internal class SchedularActivity
+    public class SchedularActivity
     {
 
         //Cannot Schedule If there is Exception
         private static Boolean CannotSchedule(DateTime activityStartTime, DateTime activityEndTIme, WorkerName _worker)
         {
-            if (_worker.getChargingStartTime == null || _worker.getChargingEndTime == null)
+            if (_worker.getChargingStartTime() == null || _worker.getChargingEndTime() == null)
             {
                 return false;
             }
-            else if (_worker.chargingStartDateTime < activityEndTIme && _worker.chargingEndDateTime > activityStartTime)
+            else if (_worker.chargingStartDateTime <= activityStartTime && _worker.chargingEndDateTime >= activityEndTIme)
             {
                 return true;
             }
@@ -33,6 +33,7 @@ namespace Ryan.Worker.Excercise.Schedular.Activity
             else
             {
                 buildComponentActivity.SetWorker(_worker);
+                Console.WriteLine(_worker.component_Worker_Name + " finished an activity of building a component!! Now, will charge/rest for 2 hours. \n\t ");
             }
         }
 
@@ -61,6 +62,7 @@ namespace Ryan.Worker.Excercise.Schedular.Activity
                 else
                 {
                     buildMachineActivity.SetWorker(_lstOfWorkers);
+                    Console.WriteLine( workers.component_Worker_Name + " finished an activity of building a machine!! Now, will charge/rest for 4 hours.\n  ");
                 }
             }
         }

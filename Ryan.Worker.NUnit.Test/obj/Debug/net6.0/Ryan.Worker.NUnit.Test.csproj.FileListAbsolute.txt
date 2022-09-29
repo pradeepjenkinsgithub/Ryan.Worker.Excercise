@@ -1,5 +1,0 @@
-C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.NUnit.Test\obj\Debug\net6.0\Ryan.Worker.NUnit.Test.csproj.AssemblyReference.cache
-C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.NUnit.Test\obj\Debug\net6.0\Ryan.Worker.NUnit.Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.NUnit.Test\obj\Debug\net6.0\Ryan.Worker.NUnit.Test.AssemblyInfoInputs.cache
-C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.NUnit.Test\obj\Debug\net6.0\Ryan.Worker.NUnit.Test.AssemblyInfo.cs
-C:\Users\PGudlanur\source\repos\CoreReact\Ryan.Worker.Excercise\Ryan.Worker.NUnit.Test\obj\Debug\net6.0\Ryan.Worker.NUnit.Test.csproj.CoreCompileInputs.cache

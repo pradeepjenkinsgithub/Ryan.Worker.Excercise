@@ -11,6 +11,8 @@ namespace Ryan.Worker.Excercise.Schedular
         public SchedulerException(string? message) : base(message)
         {
             Console.WriteLine("Exceptoion: " + message);
+            Console.Read();
         }
+        
     }
 }
